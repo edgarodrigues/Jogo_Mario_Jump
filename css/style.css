@@ -39,11 +39,11 @@
 
 
     @keyframes pipe-animation {
-        
     }
 
+    @keyframes jump {} {
 
-    @keyframes jump {}
+    }
 
     @keyframes clouds-animation {
         from {
